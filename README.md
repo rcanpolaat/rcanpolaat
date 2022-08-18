@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### Backend Developer from Turkey
+## Backend Developer from Turkey
 
 - 🌱 I’m currently learning .Net, API
 - 📫 How to reach me: rcanpolaat@gmail.com
