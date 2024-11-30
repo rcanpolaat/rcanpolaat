@@ -8,4 +8,4 @@
 - ⚡ Connect with me: https://www.linkedin.com/in/rabia-demirel/
 
 
-Languages and Tools: JAVA, C#
+Languages and Tools: JAVA, SQL, POWERBI, POSTMAN, C#
